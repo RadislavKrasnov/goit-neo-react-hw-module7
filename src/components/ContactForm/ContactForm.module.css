@@ -1,0 +1,19 @@
+.contactsForm {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000;
+  padding: 10px;
+  border-radius: 5px;
+  width: 320px;
+  box-sizing: border-box;
+}
+
+.addButton {
+  margin: 10px auto;
+  width: fit-content;
+  border: 1px solid #000;
+}
+
+.error {
+  color: #f10505;
+}
